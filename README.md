@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yyunozor&show_icons=true&theme=shades-of-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yyunozorus&show_icons=true&theme=shades-of-purple)
 
 <p align="center">
   <a href="https://skillicons.dev">
