@@ -5,11 +5,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yyunozorus&show_icons=true&theme=shades-of-purple)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ableton,apple,figma,ai,git,c,vim," />
-  </a>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=ableton,apple,figma,ai,git,c,vim,&perline=8)](https://skillicons.dev)
 
 
 <!---
