@@ -5,9 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yyunozor&show_icons=true&theme=shades-of-purple)
 
-
 [![My Skills](https://skillicons.dev/icons?i=ableton,apple,figma,ai,git,c,vim,&perline=8)](https://skillicons.dev)
-
 
 <!---
 Yyunozorus/Yyunozorus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
