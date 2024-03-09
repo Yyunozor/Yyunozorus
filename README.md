@@ -1,6 +1,6 @@
 - Yyuno, here!
 - Young developer learning C, git and computer science.
-- I also do music, design and lots of other cool stuff
+- I also do music, design and lots of other cool stuff.
 - Voilà!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yyunozor&show_icons=true&theme=shades-of-purple)
